@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "author": "saeeam",
+      "title": "Hello ",
+      "id": 1
+    },
+    {
+      "author": "sdfsd",
+      "title": "dsffsdfsff",
+      "id": 2
+    }
+  ],
+  "user": [
+    "any"
+  ],
+  "blog": {
+    "any": []
+  }
+}

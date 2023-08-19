@@ -75,11 +75,16 @@ How to start this project
 
 
 Now Install Required Package and run ngrok tunnel as well as json-server
+
 ```bash
+  cd JsonServer  (Backend folder)
   npm i (npm install)
+```
+
+Run backend server 
+```bash
   npm start tunnel   #tunnel run forward localhost to public host access through Api
   npm run db         # its a json database to save api request data in json
-
 ```
     
 

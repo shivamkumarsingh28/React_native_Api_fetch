@@ -1,6 +1,6 @@
 # LUMOS-MOBILE App Development
 
-[Live Demo](https://www.linkedin.com/posts/shivamsaeeam_react-native-is-a-javascript-framework-for-activity-7098279422176235520-LACs?utm_source=share&utm_medium=member_desktop)
+![Live Demo](https://www.linkedin.com/posts/shivamsaeeam_react-native-is-a-javascript-framework-for-activity-7098279422176235520-LACs?utm_source=share&utm_medium=member_desktop)
 
 React Native is a JavaScript framework for building native mobile apps. It uses the same design as React, letting you compose a rich mobile UI from declarative components. With React Native, you don't build a “mobile web app”, an “HTML5 app”, or a “hybrid app”. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
 

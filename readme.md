@@ -1,4 +1,4 @@
-# LUMOS-MOBILE App Development
+# Mindful Gurukul App Development
 
 [![Live Demo]()](https://www.linkedin.com/posts/shivamsaeeam_react-native-is-a-javascript-framework-for-activity-7098279422176235520-LACs?utm_source=share&utm_medium=member_desktop)
 
